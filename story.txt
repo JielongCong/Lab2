@@ -5,5 +5,4 @@ Adding more
 
 Commit message option
 
-exercise for new branch
-
+exercise for new branch2
