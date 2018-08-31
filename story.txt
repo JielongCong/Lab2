@@ -2,3 +2,5 @@ A long time ago, in a galaxy far, far away
 
 
 Adding more
+
+Commit message option
