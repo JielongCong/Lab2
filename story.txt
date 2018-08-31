@@ -7,3 +7,5 @@ Commit message option
 
 exercise for new branch
 
+
+exercise for merge confilct
